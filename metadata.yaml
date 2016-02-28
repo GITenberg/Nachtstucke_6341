@@ -1,0 +1,32 @@
+_repo: Nachtstucke_6341
+creator:
+  author:
+    agent_name: Hoffmann, E. T. A. (Ernst Theodor Amadeus)
+    aliases:
+    - Hoffmann, Ernst Theodor Amadeus
+    - Hoffmann, Ernst Theodor Wilhelm
+    - Hoffmann, E.T.A.
+    birthdate: 1776
+    deathdate: 1822
+    gutenberg_agent_id: '2008'
+    url: http://www.gutenberg.org/2009/agents/2008
+    wikipedia: http://en.wikipedia.org/wiki/E.T.A._Hoffmann
+description: ''
+gutenberg_bookshelf:
+- DE Kinderbuch
+- DE Prosa
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6341'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fantasy fiction'
+tableOfContents: "Der Sandmann\r\nIgnaz Denner\r\nDie Jesuitenkirche in G.\r\nDas\
+  \ Sanctus\r\nDas öde Haus\r\nDas Majorat\r\nDas Gelübde\r\nDas steinerne Herz"
+title: Nachtstücke
+url: http://www.gutenberg.org/ebooks/6341
