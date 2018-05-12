@@ -1,4 +1,8 @@
 _repo: Nachtstucke_6341
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hoffmann, E. T. A. (Ernst Theodor Amadeus)
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2008
     wikipedia: http://en.wikipedia.org/wiki/E.T.A._Hoffmann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6341#Nachtstucke
 gutenberg_bookshelf:
 - DE Kinderbuch
 - DE Prosa
